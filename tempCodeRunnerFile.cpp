@@ -1,0 +1,1 @@
+ cout<<guests[1];
