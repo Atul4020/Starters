@@ -3,6 +3,6 @@ using namespace std;
 
 int main(){
     cout<<"hello you are first mate";
-    cout<<"now new branch come";
+    cout<<"deleted firts branch data";
     return 0;
 }
